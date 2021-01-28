@@ -5,9 +5,8 @@
 
 https://raw.ev2.workers.dev/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
 
-相关软件 APP Store购买链接(非中国区)：
-[ QuantumultX (https://apps.apple.com/hk/app/quantumult-x/id1443988620) 7.99USD]
-Quantumult X 是 Quantumult 的重构增强版，如果你是新用户，建议单独购买 Quantumult X。
+APP Store购买链接(非中国区)：[QuantumultX (https://apps.apple.com/hk/app/quantumult-x/id1443988620) 7.99USD]
+Quantumult X 是 Quantumult 的重构增强版。
 -------------------------------------------
 Q1：我不会用啊？有教程么？
 A1：自行参考以下
