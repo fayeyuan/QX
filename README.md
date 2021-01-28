@@ -7,18 +7,15 @@ https://raw.ev2.workers.dev/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.
 
 相关软件 APP Store购买链接(非中国区)：
 [ QuantumultX (https://apps.apple.com/hk/app/quantumult-x/id1443988620) 7.99USD]
-[ Quantumult (https://appsto.re/us/o1dOkb.i) 4.99USD ]  
-[ 组合套餐 (https://apps.apple.com/hk/app-bundle/quantumult-x-upgrade/id1482985563) 9.99 USD]
-( 限时免费升级时间已过，从 Quantumult 升级更新QuantumultX 需付差价3~5美刀）
 Quantumult X 是 Quantumult 的重构增强版，如果你是新用户，建议单独购买 Quantumult X。
 -------------------------------------------
 Q1：我不会用啊？有教程么？
 A1：自行参考以下
-[作者 (https://github.com/crossutility) Github  (https://github.com/crossutility)文档 (https://github.com/crossutility)]
-[Quantumult  (https://github.com/shigalin/Quantumult/blob/master/README.md)完整教程 (https://github.com/shigalin/Quantumult/blob/master/README.md)] 
-[QuantumultX  (https://www.notion.so/kopshawn/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)用户教程 (https://www.notion.so/kopshawn/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)]
-[Quantumult X  (https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)完整配置解读 (https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)]  
-[Quantumult (https://t.me/QuanXNews) X (https://t.me/QuanXNews)通知频道 (https://t.me/QuanXNews)]（帮助&小技巧）
+[作者Github文档 (https://github.com/crossutility)]
+[Quantumult完整教程 (https://github.com/shigalin/Quantumult/blob/master/README.md)] 
+[QuantumultX用户教程 (https://www.notion.so/kopshawn/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)]
+[Quantumult X完整配置解读 (https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)]  
+[Quantumult通知频道 (https://t.me/QuanXNews)]（帮助&小技巧）
 
 
 Q4：Quantumult(X)规则有哪些？怎么导入？
@@ -35,12 +32,12 @@ A6.1: Quantumult、QuantumultX支持一般格式的 ss/ssr 订阅，以及Quan/Q
 [Vmess/Trojan等订阅格式转换]
 
 Quantumult X
-1⃣️ (https://t.me/QuanXNews/110) Quantumult (https://t.me/QuanXNews/110) X (https://t.me/QuanXNews/110)资源解析器 (https://t.me/QuanXNews/110)  (最佳选择)
-2⃣️ subconver (https://subcon.dlj.tf/)-全能 (https://subcon.py6.pw/)API (https://subcon.py6.pw/) (进阶模式-输出 Node-List)
-3⃣️ Clash|Quantumult X|Surge  (https://dove.589669.xyz/web)转换 (https://dove.589669.xyz/web) (解析器在线版)
+1⃣️ (https://t.me/QuanXNews/110) Quantumult (https://t.me/QuanXNews/110) X 资源解析器  (最佳选择)
+2⃣️ subconver (https://subcon.dlj.tf/)-全能 (https://subcon.py6.pw/)API  (进阶模式-输出 Node-List)
+3⃣️ Clash|Quantumult X|Surge  (https://dove.589669.xyz/web)转换  (解析器在线版)
 
 Quantumult
-1⃣️ (https://subcon.py6.pw/) subconver- (https://subcon.py6.pw/)全能 (https://subcon.py6.pw/)API (https://subcon.py6.pw/) (进阶模式-输出Node-List)
+1⃣️ (https://subcon.py6.pw/) subconver- 全能API (https://subcon.py6.pw/) (进阶模式-输出Node-List)
 ------------------------
 【隐私问题自己考虑】
 
