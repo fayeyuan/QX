@@ -18,12 +18,6 @@ A1：自行参考以下
 [Quantumult X  (https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)完整配置解读 (https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)]  
 [Quantumult (https://t.me/QuanXNews) X (https://t.me/QuanXNews)通知频道 (https://t.me/QuanXNews)]（帮助&小技巧）
 
-Q2：群里讨论的功能我为啥没有？如何申请TF？
-A2：可能是讨论Quantumult(X)的TF版(即TestFlight测试版)。测试功能迭代稳定后就会更新到商店版内。
-目前QX 的 TF 名额基本已满足开发者测试需求，不再提供新测试名额，请看淡随缘
-
-Q3：我想对软件提建议或反馈bug。
-A3：发邮件即可  support@quantumult.crossutility.com 。
 
 Q4：Quantumult(X)规则有哪些？怎么导入？
 A4: 鉴于QuantumultX的各种新特性，推荐使用神机规则：https://telegra.ph/ConnersHua-Profiles-11-27
@@ -69,5 +63,4 @@ quantumult-x:///ui?module=log
 quantumult-x:///ui?module=request
 quantumult-x:///ui?module=gallery
 
-为了避免造成不必要麻烦，看到新加群然后打广告的会删除广告内容。
 机场太复杂，可以看看测评：https://www.duyaoss.com/index.php/archives/3/
