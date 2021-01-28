@@ -1,3 +1,5 @@
+[神机规则]https://github.com/DivineEngine/Profiles/tree/master
+[脚本]https://github.com/NobyDa/Script/tree/master
 
 解析器换个地址，这个国内可以直接访问，不用翻墙
 
