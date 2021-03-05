@@ -4,6 +4,7 @@
 // [server_remote]
 // the-file-you-create.txt, tag=Sample
 ;shadowsocks=example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, server_check_url=http://www.apple.com/generate_204, tag=ss-01
+//已泄露
 
 ss://YWVzLTI1Ni1nY206YXNkZkAzNC44NC4zOS43OjQ0MzM=#ss-libev-tokyo
 ss://YWVzLTI1Ni1nY206YXNkZkAzNC44Ny4xMTEuMTc1OjQ0MzM=#ss-libev-sg
