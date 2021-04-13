@@ -1,9 +1,4 @@
-// 节点、分流规则或重写规则的配置片段，各类型片段文件可通过引用功能（[server_remote]、[filter_remote]、[rewrite_remote]）使用。文件将保存在 Quantumult X 目录下的 Profiles 子目录中。
-// 片段样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt
-// 使用方式：
-// [server_remote]
-// the-file-you-create.txt, tag=Sample
-;shadowsocks=example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, server_check_url=http://www.apple.com/generate_204, tag=ss-01
+
 
 ss://YWVzLTI1Ni1nY206ZW5jdGRLeUpmU3U3NlZxem5Ld1R0NkFwQDE5Mi4xNTQuMjU1LjUyOjM3NDcz#%f0%9f%87%ba%f0%9f%87%b8+US_129+%7c25.46Mb
 ss://YWVzLTI1Ni1nY206YVlOZUtETXpZUVl3NEtiVWJKQThXc3pxQDEwNC4yNDQuMjEwLjEyNTozMTk0NA==#%f0%9f%87%ba%f0%9f%87%b8+US_139+%7c26.15Mb
