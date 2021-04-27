@@ -2,7 +2,7 @@
 // 片段样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/server-complete.txt
 // 使用方式：
 // [server_remote]
-// the-file-you-create.txt, tag=Sample ;shadowsocks=example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, server_check_url=http://www.apple.com/generate_204, tag=ss-01
+// the-file-you-create.txt, tag=网络抓取 ;shadowsocks=example.com:80, method=chacha20, password=pwd, obfs=http, obfs-host=bing.com, obfs-uri=/resource/file, fast-open=false, udp-relay=false, server_check_url=http://www.apple.com/generate_204, tag=ss-01
 
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE1Ni4xNDYuNjIuNDE6Mzk3NzI=#156.146.62.41%3a39772
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE1Ni4xNDYuNjIuNTQ6Mzk3NzI=#156.146.62.54%3a39772
